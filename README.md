@@ -29,25 +29,27 @@ The analysis focuses on the following questions:
 ---
 
 ## Repository Structure
-├─ sql/
-│ ├─ order_items_enriched.sql
-│ ├─ cohort_analysis.sql
-│ ├─ repurchase_rate.sql
-│ ├─ monthly_revenue.sql
-│ ├─ active_customers.sql
-│ ├─ revenue_by_prod_category.sql
-│ └─ revenue_by_country.sql
-├─ presentation/
-│ └─ Keller_Case_Study_Data_Analyst.pdf
-├─ visuals/
-│ ├─ Active Customers
-│ ├─ Category Revenue
-│ ├─ Cohort Retention Heatmap
-│ ├─ Monthly Revenue
-│ ├─ Repurchase Rate
-│ ├─ Revenue by Country
-│ └─ Revenue by Country_Bonus
-└─ README.md
+```text
+sql/
+  order_items_enriched.sql
+  cohort_analysis.sql
+  repurchase_rate.sql
+  monthly_revenue.sql
+  active_customers.sql
+  revenue_by_prod_category.sql
+  revenue_by_country.sql
+report/
+  E-Commerce Customer Analytics.pdf
+visuals/
+  Active Customers.png
+  Category Revenue.png
+  Cohort Retention Heatmap.png
+  Monthly Revenue.png
+  Repurchase Rate.png
+  Revenue by Country.png
+  Revenue by Country_Bonus.png
+README.md
+
 
 
 ---
