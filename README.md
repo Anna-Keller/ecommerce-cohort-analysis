@@ -49,9 +49,7 @@ visuals/
   Revenue by Country.png
   Revenue by Country_Bonus.png
 README.md
-
-
-
+```
 ---
 
 ## How to Run the Queries
