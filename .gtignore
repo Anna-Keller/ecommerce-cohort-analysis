@@ -1,0 +1,26 @@
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+
+# --- Python (if used for validation / notebooks later) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- IDEs ---
+.idea/
+.vscode/
+
+# --- Temporary / local files ---
+*.log
+*.tmp
+
+# --- Credentials / secrets (never commit) ---
+.env
+.env.*
